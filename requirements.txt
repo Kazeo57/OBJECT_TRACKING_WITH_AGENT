@@ -1,0 +1,7 @@
+langgraph==0.2.56
+opencv-python==4.10.0.84
+ultralytics==8.3.44
+langchain==0.3.10
+langchain-google-genai==2.0.6
+torch==2.5.1
+python-dotenv==1.0.1
