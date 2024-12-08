@@ -1,9 +1,9 @@
-# Object-tracking-with-Agent
+# OBJECT_TRACKING_WITH_AGENT
 
 Just a friendly project to make awesome vision charastaristic  extraction task pôwered by an LLM Agent undestanding ;).
 
 <div align="center">
-  <img src="https://github.com/Kazeo57/Object-tracking-with-Agent/blob/main/intro.jpg" alt="Let's travel!" width="100%" height="600">
+  <img src="https://github.com/Kazeo57/OBJECT_TRACKING_WITH_AGENT/blob/main/intro.jpg" alt="Let's travel!" width="100%" height="600">
 </div>
 
 
@@ -13,11 +13,11 @@ Just a friendly project to make awesome vision charastaristic  extraction task p
 ## Installation
 1. Clone the github in local with:
    ```
-   git clone https://github.com/Kazeo57/Object-tracking-with-Agent.git
+   git clone https://github.com/Kazeo57/OBJECT_TRACKING_WITH_AGENT.git
    ```
 2. To access  to folder after dezinpping download files:
    ```
-   cd Object-tracking-with-Agent folder 
+   cd OBJECT_TRACKING_WITH_AGENT folder 
    ```
 3. Check your python version:
    '''
